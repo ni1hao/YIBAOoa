@@ -1,0 +1,2 @@
+# YIBAOoa
+该脚本为批量检测该系统UploadPersonalFile是否存在任意文件上传漏洞
